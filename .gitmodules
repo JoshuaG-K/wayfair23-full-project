@@ -1,0 +1,6 @@
+[submodule "server-code"]
+	path = server-code
+	url = https://github.com/JoshuaG-K/wayfair23-serverV2.git
+[submodule "app-code"]
+	path = app-code
+	url = https://github.com/Cruedy/HMCClinicNeRFApp.git
